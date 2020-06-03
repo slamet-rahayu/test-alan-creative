@@ -2,7 +2,7 @@
 
 to run in local machine 
 
->npm install
+> #npm install
 
 
->react-native run-android
+> #react-native run-android
